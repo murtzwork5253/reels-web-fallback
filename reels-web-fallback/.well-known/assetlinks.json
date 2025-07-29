@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.supabase.instagramclone",
+        "sha256_cert_fingerprints": [
+            "91:B9:39:AE:93:D9:B6:2E:5B:B5:C6:84:2F:D9:48:B7:99:B4:1E:79:ED:51:B6:AA:A8:AD:51:0F:4B:29:86:C0"
+        ]
+    }
+}]
